@@ -1,6 +1,10 @@
 # Unity-Simple-Dialogue
 Dialogue Manager for Unity
-A simple yet effective Dialogue Manager for Unity, handling subtitles and audio playback in a structured way. It supports:
+
+
+A simple yet effective Dialogue Manager for Unity, handling subtitles and audio playback in a structured way. 
+
+It supports:
 
 ✅ Timed subtitles – Each subtitle line is displayed for a predefined duration.
 
